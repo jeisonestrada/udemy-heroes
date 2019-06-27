@@ -10,3 +10,6 @@ Agregamos otro subtitulo..
 
 ## Probando conflicto git pull
 Probando.
+
+## Probando el git fetch y rebase de la rama remota
+Despues de hacer el git fetch hacer un rebase de origin master
